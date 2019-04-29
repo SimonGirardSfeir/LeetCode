@@ -1,0 +1,20 @@
+### Java ###
+*.class
+
+# IDE files #
+.idea
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs
+hs_err_pid*
+
+### Gradle ###
+.gradle
+/out/
+
+# Avoid ignoring Gradle wrapper jar file
+!gradle-wrapper.jar
